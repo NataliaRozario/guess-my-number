@@ -1,2 +1,3 @@
 # Guess my Number!
-A game developed with **HTML**, **CSS** and especially **JavaScript**
+![](page_img.png)
+A game developed with **HTML**, **CSS** and especially **JavaScript** <br/><br/>
